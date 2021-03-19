@@ -13,9 +13,11 @@
 ### 4. Philosophy
 ## II. Academic credentials
 *September 2018 - April 2021*
->Diploma, George Brown College, GPA 3.9
->T127, Computer Programer Analyst
 
+```javascript
+Diploma, George Brown College, GPA 3.9
+T127, Computer Programer Analyst
+```
 ## III. Academic work experience
 ### Academic work samples:
 #### 1. Weather application:

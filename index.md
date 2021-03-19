@@ -56,13 +56,54 @@ alt="Demonstration Thumbnail" width="500" height="375"/></a>
 alt="restaurent application"  />
 
 ### Captone Project:
-#### 1. Project Summary: [Link]()
+#### 1. Project Summary: [Link](https://drive.google.com/file/d/1PYDs_CBmVc09QATua5o7He37hPhog6Mz/view?usp=sharing)
 >Dungeon explorer is a turn-based game where the player will try to clear the campaign by completing a set objective created. The game will use a system of dice rolling to determine the outcome of the player’s action. By completing the quest, the player will be rewarded accordingly.
 
-#### 2. Project Vision: [Link]()
+#### 2. Project Vision: [Link](https://drive.google.com/file/d/1P8sWyDxJkrlZdEeHyDCSXCyrv4v4V8xy/view?usp=sharing)
+>**Executive statement**
+<img src="screenshot/project_plan.PNG" 
+alt="restaurent application"  />
 
-#### 3.
+>**Deliverables**
+<img src="screenshot/project_plan_deliverables.PNG" 
+alt="restaurent application"  />
 
+>**Gantt Chart**
+<img src="screenshot/project_plan_ganttchart.PNG" 
+alt="restaurent application"  />
+
+#### 3. Requirements Analysis and Design: [Link](https://drive.google.com/file/d/17LOr5W2Ru8v7tZdd0rh-yAG49vIra8vD/view?usp=sharing)
+>**System Overview**
+<img src="screenshot/requirements_so.PNG" 
+alt="restaurent application"  />
+
+>**Data Model**
+<img src="screenshot/requirements_datamodel.PNG" 
+alt="restaurent application"  />
+
+>**Model Sequence**
+<img src="screenshot/requirements_sequence.PNG" 
+alt="restaurent application"  />
+
+>**Data Flow**
+<img src="screenshot/requirements_dataflow.PNG" 
+alt="restaurent application"  />
+
+>**UML Diagram**
+<img src="screenshot/requirement_uml.PNG" 
+alt="restaurent application"  />
+
+#### 4. WireFrames/ Mockups: [Link](https://drive.google.com/file/d/1WGvTaMBAVzwqijv4lqZEtZos1ejVBZIg/view?usp=sharing)
+>**WireFrames**
+<img src="screenshot/wireframe.PNG" 
+alt="restaurent application"  />
+
+#### 5. Project Status Reports
+**[Status Report 1](https://drive.google.com/file/d/1mGJr5pmvHSFQJcE2pgJnfmCWa4aiuXfZ/view?usp=sharing)**
+
+
+#### 6. System Implementation
+**[Github Repository](https://github.com/MinhQuang-Truong/Dungeon-Explorer)**
 ## IV. Professional summary
 ### Awards and Reconigtion:
 **Dean’s Honors List on all of the semester**:

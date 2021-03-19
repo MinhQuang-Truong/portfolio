@@ -18,11 +18,12 @@
 Diploma, George Brown College, GPA 3.9
 T127, Computer Programer Analyst
 ```
+
 ## III. Academic work experience
 ### Academic work samples:
 #### 1. Weather application:
 Inline-style: 
-<img src="https://imgur.com/a/qs9QQo3" 
+<img src="screenshot/screenshot.PNG" 
 alt="IMAGE ALT TEXT HERE"  />
 
 

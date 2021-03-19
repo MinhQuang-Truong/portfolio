@@ -10,7 +10,7 @@
 ### 3. Resume
 [Link to resume](https://drive.google.com/file/d/1c4OMeSB0WLcc-zvif1cS6mECc-cZL9ZM/view?usp=sharing)
 
-### 4. Philosophy
+### 4. Career Goal 
 ## II. Academic credentials
 *September 2018 - April 2021*
 
@@ -25,7 +25,7 @@ T127, Computer Programer Analyst
 **Technology used: [React-Native Framework](https://reactnative.dev/)**
 >This is an application that update the current weather conditions (temperature, precipitation, humidity, …) by displaying the data from an API call of  https://openweathermap.org/api
 
-<img src="screenshot/screenshot.PNG" 
+<img src="screenshot/weatherapp.PNG" 
 alt="weather application"  />
 
 #### 2 . Machine learning project 1: [Link to source code](https://colab.research.google.com/drive/1YZt6svHcogQsq6lW9OjaLStMCtclsvYA?usp=sharing)
@@ -52,15 +52,20 @@ alt="Demonstration Thumbnail" width="500" height="375"/></a>
 **Technology used: [Android Studio](https://developer.android.com/studio)**
 >This is an Android application capable of CRUD (Create, Read, Update, Delete) restaurant information using SQLite. You can bookmark your favorite restaurant and get direction from your current location.
 
-<img src="screenshot/Capture.PNG" 
+<img src="screenshot/restaurantguide.PNG" 
 alt="restaurent application"  />
 
 ### Captone Project:
+#### 1. Project Summary: [Link]()
+>Dungeon explorer is a turn-based game where the player will try to clear the campaign by completing a set objective created. The game will use a system of dice rolling to determine the outcome of the player’s action. By completing the quest, the player will be rewarded accordingly.
 
+#### 2. Project Vision: [Link]()
+
+#### 3.
 
 ## IV. Professional summary
 ### Awards and Reconigtion:
 **Dean’s Honors List on all of the semester**:
 
-<img src="screenshot/dean.PNG" 
+<img src="screenshot/Dean.PNG" 
 alt="restaurent application"  />
